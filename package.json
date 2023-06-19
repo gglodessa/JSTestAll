@@ -1,15 +1,15 @@
 {
   "dependencies": {
     "base-64": "^1.0.0",
-    "chai": "^4.3.6",
+    "chai": "^4.3.7",
     "connect-query": "^1.0.0",
     "file-reader": "^1.1.1",
     "fs": "^0.0.1-security",
-    "node-fetch": "^2.6.7",
+    "node-fetch": "^2.6.11",
     "request": "^2.88.2",
-    "selenium-webdriver": "^4.5.0",
-    "sqlite3": "^5.1.2",
-    "winston": "^3.8.2",
+    "selenium-webdriver": "^4.10.0",
+    "sqlite3": "^5.1.6",
+    "winston": "^3.9.0",
     "xhr": "^2.6.0"
   }
 }
